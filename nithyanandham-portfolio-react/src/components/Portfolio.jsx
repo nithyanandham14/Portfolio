@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { Code2, Award, Layers, ExternalLink, ArrowRight } from 'lucide-react';
 import likemindedImg from '../assets/likeminded-desing.png';
-import finance from '../assets/Image2.png';
+import finance from '../assets/image2.png';
 import crowd from '../assets/Image1.png';
 import OracleCert from '../assets/OracleCert.jpg';
 import javaDev from '../assets/javaDeveloper.jpg';
